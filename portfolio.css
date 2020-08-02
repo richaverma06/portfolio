@@ -1,0 +1,73 @@
+
+body {
+ background-image: url(' /wallpaper.jpg');
+ background-color: #cccccc;
+}
+   
+
+img{
+   width:40%;
+   padding:2%;
+   display:inline-block;
+    border-radius:40%;
+   height:20%;
+    
+ }
+h1{
+    display:block;
+    width:30%;
+    margin:0 auto;
+    padding:1%;
+}
+nav{
+   width:30%;
+   margin:0 auto;
+   diplay:block;
+  padding:1%;
+}
+a{
+   padding:1%;
+   margin:2%;
+}
+section{
+    display:inline-block;
+    width:40%;
+   font-family:Arial;
+    font-style:Oblique;
+    font-size:27px;
+    text-allign:left;
+   padding:1%;
+    margin:0.5%;
+}
+div img{
+ display:inline-block;
+   width:10%;
+   margin:2%;
+}
+div{
+     width:100%;
+}
+div p{
+   display:inline-block;
+    font-family:Times;
+    font-size:23px;
+}
+#skills p{
+      display:inline-block;
+      width:25%;
+     margin:2%;
+    padding:1%;
+  
+ }
+#skills{
+   width:100%;
+}
+.link{
+      width:100%;
+}
+
+.link img{
+      width:10%;
+       display:inline-block;
+     margin:4%;
+}
